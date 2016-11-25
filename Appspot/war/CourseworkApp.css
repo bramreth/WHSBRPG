@@ -1,0 +1,192 @@
+/*css for all the main pages, themed to keep pages centralised with headings in pastel purple*/
+
+body{
+	font-family: sans-serif;/*font for all the html*/
+}
+#log{
+	margin-right: 45%;
+	text-align: right;
+}
+#characterName{
+	position: relative;
+	left: -20px;
+	top: -500px;
+}
+#save{
+	text-align: center;
+}
+#feet{
+width: 30px;
+}
+#inches{
+width: 30px;
+}
+#Weight{
+width: 30px;
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;/*puts the navigation bar at the top left*/
+}
+
+a {
+	display: block;
+	width: 150px;
+}
+a.align{
+	text-align: center;
+	margin: auto;
+}
+#page1{
+    float: left;
+    margin-left: 2%;
+    width: 48%; 
+}
+#page2{
+    float: left;
+    margin-right: 2%;
+    width: 48%; 
+}
+#leftcolumn { 
+	margin-left: 30%;
+	width: 18%; 
+	float: left;
+	text-align: center;
+	}
+	#age{
+	position: relative;
+	right: 18px
+	}
+	#eyes{
+	position: relative;
+	right: 21px
+	}
+	#skin{
+	position: relative;
+	right: 19px
+	}
+	#hair{
+	position: relative;
+	right: 18px
+	}
+#rightcolumn { 
+	margin-right: 30%;
+	width: 18%; 
+	float: left;
+	text-align: center;
+	}
+#control{
+	 width: 700px;
+    height: 100px;
+
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+    margin: auto;
+}
+#leftcolumn1 { 
+	
+	position: fixed;
+    top:25%;
+    left: 21%;
+	text-align: center;
+}
+#submit{
+	position: fixed;
+    top:50%;
+    right: 47%;
+	text-align: center;
+}
+#rightcolumn1 { 
+	
+	position: fixed;
+    top:25%;
+    right: 31%;
+	text-align: center;
+}
+#fixedbutton {
+
+}
+/*hidden radio buttons for passing js values to jsp*/
+#p1{
+	visibility: hidden;
+}
+#p2{
+	visibility: hidden;
+}
+#p3{
+	visibility: hidden;
+}
+#p4{
+	visibility: hidden;
+}
+#p5{
+	visibility: hidden;
+}
+#p6{
+	visibility: hidden;
+}
+#p7{
+	visibility: hidden;
+}
+#align{
+	text-align: center;
+}
+b{
+	color: #8F568F;/*purple*/
+}
+p{
+	color: #8F568F;
+	font-weight: bold;/*puts all p tags in bold*/
+}
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #8F568F;
+  margin: 40px 0px 2%;
+  text-align: center;
+}
+h2 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #8F568F;
+  margin: 40px 0px 2%;
+  text-align: center;
+}
+h3 {
+  color: #8F568F;
+  text-align: center;
+}
+
+.sendButton {
+  display: block;
+  font-size: 16pt;
+}
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+/** Set ids using widget.getElement().setId("idOfElement") */
+#closeButton {
+  margin: 15px 6px 6px;
+}

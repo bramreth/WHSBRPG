@@ -1,0 +1,617 @@
+@CHARSET "ISO-8859-1";
+/*absolute positioning to put all the id's in the correct place on their respective print pages*/
+#name{
+position: absolute;
+z-index: 2;
+top:70px;
+left:110px;
+}
+#name2{
+position: absolute;
+z-index: 2;
+top:75px;
+left:110px;
+}
+#class{
+position: absolute;
+z-index: 2;
+top:50px;
+left:370px;
+}
+#age{
+position: absolute;
+z-index: 2;
+top:55px;
+left:360px;
+}
+#background{
+position: absolute;
+z-index: 2;
+top:50px;
+left:510px;
+}
+#height{
+position: absolute;
+z-index: 2;
+top:55px;
+left:500px;
+}
+#pName{
+position: absolute;
+z-index: 2;
+top:50px;
+left:635px;
+}
+#weight{
+position: absolute;
+z-index: 2;
+top:55px;
+left:630px;
+}
+#race{
+position: absolute;
+z-index: 2;
+top:88px;
+left:370px;
+}
+#eyes{
+position: absolute;
+z-index: 2;
+top:93px;
+left:360px;
+}
+#alignment{
+position: absolute;
+z-index: 2;
+top:88px;
+left:510px;
+}
+#skin{
+position: absolute;
+z-index: 2;
+top:93px;
+left:500px;
+}
+#xp{
+position: absolute;
+z-index: 2;
+top:88px;
+left:640px;
+}
+#hair{
+position: absolute;
+z-index: 2;
+top:93px;
+left:630px;
+}
+#profBonus{
+	position: absolute;
+	z-index: 2;
+	top:222px;
+	left:142px;
+}
+#strm{
+	position: absolute;
+	z-index: 2;
+	top:210px;
+	left:74px;
+}
+#dexm{
+	position: absolute;
+	z-index: 2;
+	top:311px;
+	left:74px;
+}
+#conm{
+	position: absolute;
+	z-index: 2;
+	top:412px;
+	left:74px;
+}
+#intm{
+	position: absolute;
+	z-index: 2;
+	top:513px;
+	left:74px;
+}
+#wism{
+	position: absolute;
+	z-index: 2;
+	top:614px;
+	left:74px;
+}
+#cham{
+	position: absolute;
+	z-index: 2;
+	top:715px;
+	left:74px;
+}
+#str{
+	position: absolute;
+	z-index: 2;
+	top:245px;
+	left:75px;
+}
+#dex{
+	position: absolute;
+	z-index: 2;
+	top:346px;
+	left:75px;
+}
+#con{
+	position: absolute;
+	z-index: 2;
+	top:447px;
+	left:75px;
+}
+#int{
+	position: absolute;
+	z-index: 2;
+	top:549px;
+	left:75px;
+}
+#wis{
+	position: absolute;
+	z-index: 2;
+	top:651px;
+	left:75px;
+}
+#cha{
+	position: absolute;
+	z-index: 2;
+	top:751px;
+	left:75px;
+}
+#ac{
+	position: absolute;
+	z-index: 2;
+	top:192px;
+	left:323px;
+}
+#initiative{
+	position: absolute;
+	z-index: 2;
+	top:195px;
+	left:394px;
+}
+#speed{
+	position: absolute;
+	z-index: 2;
+	top:195px;
+	left:472px;
+}
+#personality{
+	position: absolute;
+	z-index: 2;
+	top:185px;
+	left:556px;
+	width: 180px;
+	line-height: 18px;
+}
+#ideal{
+	position: absolute;
+	z-index: 2;
+	top:282px;
+	left:556px;
+	width: 180px;
+	line-height: 17px;
+}
+#bond{
+	position: absolute;
+	z-index: 2;
+	top:360px;
+	left:556px;
+	width: 180px;
+	line-height: 17px;
+}
+#flaw{
+	position: absolute;
+	z-index: 2;
+	top:438px;
+	left:556px;
+	width: 180px;
+	line-height: 17px;
+}
+#passiveP{
+	position: absolute;
+	z-index: 2;
+	top:820px;
+	left:56px;
+	width: 220px;
+	line-height: 16px;
+}
+#features{
+	position: absolute;
+	z-index: 2;
+	top:531px;
+	left:543px;
+	width: 220px;
+	line-height: 15.5px;
+}
+#other{
+	position: absolute;
+	z-index: 2;
+	top:874px;
+	left:52px;
+	width: 220px;
+	line-height: 15.5px;
+}
+#equipment{
+	position: absolute;
+	z-index: 2;
+	top:828px;
+	left:357px;
+	width: 156px;
+	line-height: 15.5px;
+}
+#strS{
+	position: absolute;
+	z-index: 2;
+	top:147.2px;
+	left:137.5px;
+}
+#dexS{
+	position: absolute;
+	z-index: 2;
+	top:166px;
+	left:137.5px;
+}
+#conS{
+	position: absolute;
+	z-index: 2;
+	top:185.2px;
+	left:137.5px;
+}
+#intS{
+	position: absolute;
+	z-index: 2;
+	top:204.3px;
+	left:137.5px;
+}
+#wisS{
+	position: absolute;
+	z-index: 2;
+	top:223.3px;
+	left:137.5px;
+}
+#chaS{
+	position: absolute;
+	z-index: 2;
+	top:242.5px;
+	left:137.5px;
+}
+#s1{
+	
+	position: absolute;
+	z-index: 2;
+	top:310.4px;
+	left:137.5px;
+}
+#s2{
+	position: absolute;
+	z-index: 2;
+	top:329.3px;
+	left:137.5px;
+}
+#s3{
+	position: absolute;
+	z-index: 2;
+	top:348.5px;
+	left:137.5px;
+}
+#s4{
+	position: absolute;
+	z-index: 2;
+	top:367.5px;
+	left:137.5px;
+}
+#s5{
+	position: absolute;
+	z-index: 2;
+	top:386.5px;
+	left:137.5px;
+}
+#s6{
+	position: absolute;
+	z-index: 2;
+	top:406px;
+	left:137.5px;
+}
+#s7{
+	position: absolute;
+	z-index: 2;
+	top:425px;
+	left:137.5px;
+}
+#s8{
+	position: absolute;
+	z-index: 2;
+	top:444px;
+	left:137.5px;
+}
+#s9{
+	position: absolute;
+	z-index: 2;
+	top:463.2px;
+	left:137.5px;
+}
+#s10{
+	position: absolute;
+	z-index: 2;
+	top:482.2px;
+	left:137.5px;
+}
+#s11{
+	position: absolute;
+	z-index: 2;
+	top:501.4px;
+	left:137.5px;
+}
+#s12{
+	position: absolute;
+	z-index: 2;
+	top:520.6px;
+	left:137.5px;
+}
+#s13{
+	position: absolute;
+	z-index: 2;
+	top:539.8px;
+	left:137.5px;
+}
+#s14{
+	position: absolute;
+	z-index: 2;
+	top:558.8px;
+	left:137.5px;
+}
+#s15{
+	position: absolute;
+	z-index: 2;
+	top:578px;
+	left:137.5px;
+}
+#s16{
+	position: absolute;
+	z-index: 2;
+	top:597.2px;
+	left:137.5px;
+}
+#s17{
+	position: absolute;
+	z-index: 2;
+	top:616.2px;
+	left:137.5px;
+}
+#s18{
+	position: absolute;
+	z-index: 2;
+	top:635.3px;
+	left:137.5px;
+}
+#v1{
+	position: absolute;
+	z-index: 2;
+	top:429.6px;
+	left:157px;
+}
+#v2{
+	position: absolute;
+	z-index: 2;
+	top:448.7px;
+	left:157px;
+}
+#v3{
+	position: absolute;
+	z-index: 2;
+	top:467.8px;
+	left:157px;
+}
+#v4{
+	position: absolute;
+	z-index: 2;
+	top:486.8px;
+	left:157px;
+}
+#v5{
+	position: absolute;
+	z-index: 2;
+	top:506.3px;
+	left:157px;
+}
+#v6{
+	position: absolute;
+	z-index: 2;
+	top:525.3px;
+	left:157px;
+}
+#v7{
+	position: absolute;
+	z-index: 2;
+	top:544.3px;
+	left:157px;
+}
+#v8{
+	position: absolute;
+	z-index: 2;
+	top:563.5px;
+	left:157px;
+}
+#v9{
+	position: absolute;
+	z-index: 2;
+	top:582.5px;
+	left:157px;
+}
+#v10{
+	position: absolute;
+	z-index: 2;
+	top:601.7px;
+	left:157px;
+}
+#v11{
+	position: absolute;
+	z-index: 2;
+	top:620.9px;
+	left:157px;
+}
+#v12{
+	position: absolute;
+	z-index: 2;
+	top:640.2px;
+	left:157px;
+}
+#v13{
+	position: absolute;
+	z-index: 2;
+	top:659.1px;
+	left:157px;
+}
+#v14{
+	position: absolute;
+	z-index: 2;
+	top:678.3px;
+	left:157px;
+}
+#v15{
+	position: absolute;
+	z-index: 2;
+	top:697.5px;
+	left:157px;
+}
+#v16{
+	position: absolute;
+	z-index: 2;
+	top:716.6px;
+	left:157px;
+}
+#v17{
+	position: absolute;
+	z-index: 2;
+	top:735.6px;
+	left:157px;
+}
+#v18{
+	position: absolute;
+	z-index: 2;
+	top:754.7px;
+	left:157px;
+}
+#strMV{
+	position: absolute;
+	z-index: 2;
+	top:268px;
+	left:157px;
+}
+#dexMV{
+	position: absolute;
+	z-index: 2;
+	top:287.2px;
+	left:157px;
+}
+#conMV{
+	position: absolute;
+	z-index: 2;
+	top:306.4px;
+	left:157px;
+}
+#intMV{
+	position: absolute;
+	z-index: 2;
+	top:325.6px;
+	left:157px;
+}
+#wisMV{
+	position: absolute;
+	z-index: 2;
+	top:344.8px;
+	left:157px;
+}
+#chaMV{
+	position: absolute;
+	z-index: 2;
+	top:364px;
+	left:157px;
+}
+
+h6{
+	font-size: 300%;
+	font-family: Times New Roman;
+}
+#hp{
+	position: absolute;
+	z-index: 2;
+	top:257px;
+	left:393px;
+}
+#hd{
+	position: absolute;
+	z-index: 2;
+	top:428px;
+	left:332px;
+}
+#money{
+	position: absolute;
+	z-index: 2;
+	top:941px;
+	left:316px;
+}
+#backstory{
+	position: absolute;
+	z-index: 2;
+	top:528px;
+	left:63px;
+	width: 200px;
+	line-height: 16px;
+}
+#Sclass{
+	position: absolute;
+	z-index: 2;
+	top:75px;
+	left:100px;
+}
+#Sabil{
+	position: absolute;
+	z-index: 2;
+	top:68px;
+	left:380px;
+}
+#SDC{
+	position: absolute;
+	z-index: 2;
+	top:68px;
+	left:540px;
+}
+#Sbonus{
+	position: absolute;
+	z-index: 2;
+	top:68px;
+	left:675px;
+}
+#sheet{
+position: absolute;
+top: 0;
+z-index: -1;
+
+}
+h5{
+	/*
+	color: #CCCCCC 
+	*/
+}
+h4{
+	font-size: 60%;
+}
+#btn{
+	position: absolute;
+	top: 1110px;
+	z-index: 1;
+}
+body{
+	font-family: sans-serif;
+}
+@media print {
+    #Header, #Footer { display: none !important; }
+    #btn { display: none !important; } /*on print hides unwanted parts of the page*/
+}
+
