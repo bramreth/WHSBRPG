@@ -1,12 +1,16 @@
-This project was although inneficient, poorly optimised and clumsy forged me into the proggrammer I am today, I had a tonsillectomy part
-way through my A levels that set me back hugely on my coursework where I had to design and implement this project, and after losing that
-time I descided to make it into a website with no prior experience, so built of my hazy understanding of OOP at the time (after a couple
-years of only using python and visual basic, I jumped into the deep end, constructed a java class to make a DND character and then set it
-up so it could be hosted on a google appengine website, using HTML, javascript, JSP and GQL for pretty much the first time, I worked 
-solidly on this project for a month before it was finished, picking up languages and techniques on the fly. It was successful in as far as
-you can use the site to make a character, but I grew hugely from the experience. I learnt a lot about quickly learning to use a language to 
-solve problems, made huge mistakes(that work!) in the form of javascript files for generating dynamic radio buttons that took thousands 
-upon thousands of lines that in the end could have been easily replicated with a little Jquery had I done more research. I learnt about
-hashing passwords and avoiding SQL injection the hard way, propper class inheritance, using Enums, using private variables with getter 
-and setter methods rather than public variables, the meaning of static methods and much much more over a very short period of time. 
+This project was although inneficient, poorly optimised and clumsy forged me into the proggrammer I am today. 
+
+I had a tonsillectomy part way through my A levels that set me back hugely on my coursework where I had to design and implement this 
+already planned out project. So built of my hazy understanding of OOP at the time (after a couple years of only using python and visual 
+basic) I jumped into the deep end. I constructed a java class to make a DND character and then set it up so it could be hosted on a google
+appengine website, using HTML, javascript, JSP and GQL for the first time, I worked solidly on this project for a month before it was 
+finished, I had to pick up languages and techniques on the fly. 
+
+It was successful in as far as you can use the site to make a character, but I grew hugely from the experience. I learnt a lot about 
+quickly learning to use a language to solve problems, made huge mistakes(that work!) in the form of javascript files for generating dynamic
+radio buttons that took thousands upon thousands of lines that in the end could have been easily replicated with a little Jquery had I done 
+research. I learnt about hashing passwords and avoiding SQL injection the hard way, propper class inheritance, using Enums, using private 
+variables with getter and setter methods rather than public variables, the meaning of static methods and much much more over a very short 
+period of time. 
+
 From this project my approach to problem solving and software design was forged, it is not good code, but it is important.
